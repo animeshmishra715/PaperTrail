@@ -18,11 +18,6 @@ React + Tailwind (5173)  ──REST──▶  Node + Express (5000)  ──REST�
 
 ---
 
-## Setup
-
-> **Windows tip:** keep the project in a short path such as `C:\projects\papertrail-ai`.
-> Very long folder paths break `pip install` for packages like PyTorch (Windows 260-character limit).
-
 ### Prerequisites
 - Node.js 20.16+ and Python 3.10–3.12
 - A MongoDB Atlas cluster (free tier), or MongoDB running locally
